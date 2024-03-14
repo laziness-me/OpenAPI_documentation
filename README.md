@@ -10,6 +10,6 @@ Disusun Oleh : KELOMPOK 4
 PROGRAM STUDI D4 MANAJEMEN INFORMATIKA FAKULTAS VOKASI
 UNIVERSITAS NEGERI SURABAYA 2024
 
-Berikut merupakan source code dan tampilan hasil dokumentasi OpenApi pada project "ITEM List".
+Berikut merupakan source code dan tampilan hasil dokumentasi OpenApi pada project "ITEMS List".
 ![file_2024-03-13_13 28 34](https://github.com/laziness-me/OpenAPI_documentation/assets/102853731/4780e7a1-b02f-4195-8d79-20a329c9bbcf)
 
